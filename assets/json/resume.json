@@ -6,6 +6,7 @@
     "email": "",
     "phone": "",
     "url": "",
+    "language": "English (Fluent), Mandarin (Native)",
     "summary": "Ph.D. Student in Electronic Engineering at CUHK",
     "location": {
       "address": "",
@@ -27,7 +28,7 @@
       "institution": "The Chinese University of Hong Kong (CUHK)",
       "location": "Hong Kong SAR",
       "url": "https://www.cuhk.edu.hk/",
-      "area": "Electronic Engineering",
+      "area": "Electronic Engineering, Supervisor: Wing-Kin Ma",
       "studyType": "Ph.D.",
       "startDate": "2024-08-01",
       "endDate": "Present",
@@ -56,6 +57,16 @@
       "score": ""
     }
   ],
+  "work": [
+    {
+      "name": "The Chinese University of Hong Kong (CUHK)",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2024-04",
+      "endDate": "2024-07",
+      "summary": "Supervisor: Wing-Kin Ma"
+    }
+  ],
   "awards": [
     {
       "title": "Outstanding Graduates (for Postgraduates)",
@@ -76,42 +87,6 @@
       "title": "The First Prize Scholarship",
       "date": "2019",
       "awarder": "Northwestern Polytechnical University"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Matlab",
-        "LaTeX",
-        "C",
-        "Python"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Mandarin",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Signal Processing",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "DOA Estimation",
-        "Source Localization",
-        "Matrix Factorization"
-      ]
     }
   ]
 }
