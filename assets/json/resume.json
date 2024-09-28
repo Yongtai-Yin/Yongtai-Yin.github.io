@@ -3,10 +3,10 @@
     "name": "Yongtai Yin",
     "label": "Ph.D. Student",
     "image": "",
-    "email": "ytyin@link.cuhk.edu.hk",
+    "email": "",
     "phone": "",
     "url": "",
-    "summary": "Ph.D. Student at CUHK",
+    "summary": "Ph.D. Student in Electronic Engineering at CUHK",
     "location": {
       "address": "",
       "postalCode": "",
@@ -52,7 +52,8 @@
       "area": "Communication Engineering",
       "studyType": "B.Eng.",
       "startDate": "2017-09-01",
-      "endDate": "2021-07-01"
+      "endDate": "2021-07-01",
+      "score": ""
     }
   ],
   "awards": [
