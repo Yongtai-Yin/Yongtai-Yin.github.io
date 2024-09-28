@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on [DOA estimation](https://doi.org/10.1016/j.sigpro.2023.109229) was accepted to [*Signal Process.*](https://www.sciencedirect.com/journal/signal-processing).
+Our paper on [DOA estimation](https://www.sciencedirect.com/science/article/pii/S0165168423003031?via%3Dihub) was accepted to [*Signal Process.*](https://www.sciencedirect.com/journal/signal-processing).
