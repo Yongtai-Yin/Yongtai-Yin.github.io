@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on [parametric channel estimation](https://ieeexplore.ieee.org/document/10558849) was accepted to [*IEEE Internet Things J.*](https://ieee-iotj.org/).
+Our paper `Joint multipath channel estimation and array channel inconsistency calibration for massive MIMO systems` was accepted to [*IEEE Internet Things J.*](https://ieee-iotj.org/).
