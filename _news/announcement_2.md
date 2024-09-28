@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper `Robust sparse direct localization of smart vehicle with partly calibrated time modulated arrays` was accepted to [*IEEE Trans. Intell. Transp. Syst.*](https://ieee-itss.org/pub/t-its/).
+Our paper on `source localization` was accepted to [IEEE Trans. Intell. Transp. Syst.](https://ieee-itss.org/pub/t-its/).

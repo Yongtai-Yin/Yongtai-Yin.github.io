@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper `DOA estimation based on smoothed sparse reconstruction with time-modulated linear arrays` was accepted to [*Signal Process.*](https://www.sciencedirect.com/journal/signal-processing).
+Our paper on `DOA estimation` was accepted to [Signal Process.](https://www.sciencedirect.com/journal/signal-processing).
