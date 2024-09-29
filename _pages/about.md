@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D Student @ <a href='https://www.cuhk.edu.hk'>CUHK</a> EE.
+subtitle: Ph.D. Student @ <a href='https://www.cuhk.edu.hk'>CUHK</a> EE.
 
 profile:
   align: right
@@ -25,7 +25,10 @@ Prior to this, I obtained my B.Eng. and M.Eng. degrees in Communication Engineer
 
 #### **Research Interests**
 
-- `Signal Processing`
-  - DOA estimation, source localization, matrix factorization
-- `Wireless Communications`
-  - massive MIMO, channel estimation
+- [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing)
+  - [array processing](https://en.wikipedia.org/wiki/Array_processing), [data mining](https://en.wikipedia.org/wiki/Data_mining)
+
+- Wireless Communications
+  - massive [MIMO](https://en.wikipedia.org/wiki/MIMO), [channel estimation](https://en.wikipedia.org/wiki/Channel_state_information)
+
+- [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)

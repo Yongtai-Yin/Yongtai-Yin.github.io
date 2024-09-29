@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Yongtai Yin",
-    "label": "Ph.D. Student",
+    "label": "",
     "image": "",
     "email": "",
     "phone": "",
@@ -27,7 +27,7 @@
     {
       "institution": "The Chinese University of Hong Kong (CUHK)",
       "location": "Hong Kong SAR",
-      "url": "https://www.cuhk.edu.hk/",
+      "url": "https://www.cuhk.edu.hk",
       "area": "Electronic Engineering, Supervisor: Wing-Kin Ma",
       "studyType": "Ph.D.",
       "startDate": "2024-08-01",
@@ -61,7 +61,7 @@
     {
       "name": "The Chinese University of Hong Kong (CUHK)",
       "position": "Research Assistant",
-      "url": "",
+      "url": "https://www.cuhk.edu.hk",
       "startDate": "2024-04",
       "endDate": "2024-07",
       "summary": "Supervisor: Wing-Kin Ma"
