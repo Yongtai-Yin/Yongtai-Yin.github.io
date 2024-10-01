@@ -2,10 +2,11 @@
 layout: post
 title: Convex Functions
 date: 2024-10-01 20:12:00
-description: Notes for ENGG 5501 "Foundations of Optimization" 2024-25 Term 1
+description: Notes for ENGG 5501 Foundations of Optimization 2024-25 Term 1
 tags: optimization
 categories: courses
-tabs: true
+toc:
+  sidebar: left
 ---
 
 ## Basic Definitions
