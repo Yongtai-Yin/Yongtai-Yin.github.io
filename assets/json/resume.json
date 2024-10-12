@@ -69,23 +69,23 @@
   ],
   "awards": [
     {
+      "title": "Postgraduate Studentship",
+      "date": "2024",
+      "awarder": "The Chinese University of Hong Kong"
+    },
+    {
+      "title": "Outstanding Master's Thesis",
+      "date": "2024",
+      "awarder": "Northwestern Polytechnical University"
+    },
+    {
       "title": "Outstanding Graduates (for Postgraduates)",
       "date": "2024",
       "awarder": "Northwestern Polytechnical University"
     },
     {
-      "title": "The First-Class Academic Scholarship",
-      "date": "2023",
-      "awarder": "Northwestern Polytechnical University"
-    },
-    {
       "title": "Outstanding Graduates (for Undergraduates)",
       "date": "2021",
-      "awarder": "Northwestern Polytechnical University"
-    },
-    {
-      "title": "The First Prize Scholarship",
-      "date": "2019",
       "awarder": "Northwestern Polytechnical University"
     }
   ]
